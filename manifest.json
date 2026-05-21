@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Private AI Summary",
   "version": "1.0.1",
-  "description": "100% on-device AI summarization. Your content never leaves your browser.",
+  "description": "Summarize pages and critique news articles using the AI built into Chrome. Your data stays with you.",
   "action": {
     "default_popup": "popup.html",
     "default_icon": {

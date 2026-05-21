@@ -1,6 +1,6 @@
 # Private AI Summary
 
-A Chrome extension that summarizes the page you're on — articles, YouTube videos, recipes — using the AI model built into your browser. Nothing leaves your device.
+A Chrome extension that summarizes the page you're on — articles, YouTube videos, recipes — using the AI model built into your browser. Your data stays with you.
 
 ## What it does
 
@@ -38,7 +38,7 @@ Then load the extension:
 
 ## Privacy
 
-Page content is processed by Chrome's on-device AI model. Nothing is sent to a server, nothing is logged, no telemetry. See [PRIVACY.md](PRIVACY.md) for the full posture.
+Your data stays with you. Page content is processed by the AI model built into Chrome — nothing is sent to a server, nothing is logged. See [PRIVACY.md](PRIVACY.md) for the full posture.
 
 ## License
 
