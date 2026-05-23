@@ -31,9 +31,9 @@ You'll need Chrome 138 or newer with Gemini Nano enabled. One-time Chrome setup:
 
 Then load the extension:
 
-1. Clone this repo: `git clone https://github.com/Josh-Approved/PrivateAISummary.git`
+1. Clone this repo: `git clone https://github.com/Josh-Approved/private-ai-summary.git`
 2. Open `chrome://extensions`, turn on **Developer mode**.
-3. Click **Load unpacked** and select the `PrivateAISummary` folder.
+3. Click **Load unpacked** and select the `private-ai-summary` folder.
 4. Pin the extension and click its icon on any page.
 
 ## Privacy
