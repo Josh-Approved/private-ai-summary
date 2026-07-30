@@ -42,7 +42,7 @@ Your data stays with you. Page content is processed by the AI model built into C
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT, see [LICENSE](LICENSE).
 
 ## Feedback
 
