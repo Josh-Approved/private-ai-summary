@@ -17,9 +17,9 @@ Anyone who reads a lot online and wants quick summaries without sending every pa
 
 ## How to get it
 
-Coming soon to the Chrome Web Store.
+Install it via [Private AI Summary - Chrome Web Store](https://chromewebstore.google.com/detail/private-ai-summary/jbfgdnfdmolgdpohlcclaolkcanddjnm)
 
-In the meantime, load it as an unpacked extension — see below.
+Or load it as an unpacked extension — see below.
 
 ## Run it locally
 
