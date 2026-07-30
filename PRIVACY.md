@@ -1,4 +1,4 @@
-# Privacy Policy — Private AI Summary
+# Privacy Policy: Private AI Summary
 
 Last updated: May 2, 2026
 
@@ -8,7 +8,7 @@ Private AI Summary does not collect, transmit, store, or share any personal data
 
 ## On-device processing
 
-All summarization is performed entirely on your device using Chrome's built-in Gemini Nano model. Page content you summarize is never sent to any server — including ours. We have no servers.
+All summarization is performed entirely on your device using Chrome's built-in Gemini Nano model. Page content you summarize is never sent to any server (including ours). We have no servers.
 
 ## YouTube captions
 

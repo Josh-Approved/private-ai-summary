@@ -1,6 +1,6 @@
 # Private AI Summary
 
-A Chrome extension that summarizes the page you're on — articles, YouTube videos, recipes — using the AI model built into your browser. Your data stays with you.
+A Chrome extension that summarizes the page you're on (articles, YouTube videos, recipes) using the AI model built into your browser. Your data stays with you.
 
 ## What it does
 
@@ -19,7 +19,7 @@ Anyone who reads a lot online and wants quick summaries without sending every pa
 
 Install it via [Private AI Summary - Chrome Web Store](https://chromewebstore.google.com/detail/private-ai-summary/jbfgdnfdmolgdpohlcclaolkcanddjnm)
 
-Or load it as an unpacked extension — see below.
+Or load it as an unpacked extension, see below.
 
 ## Run it locally
 
@@ -38,7 +38,7 @@ Then load the extension:
 
 ## Privacy
 
-Your data stays with you. Page content is processed by the AI model built into Chrome — nothing is sent to a server, nothing is logged. See [PRIVACY.md](PRIVACY.md) for the full posture.
+Your data stays with you. Page content is processed by the AI model built into Chrome. Nothing is sent to a server, nothing is logged. See [PRIVACY.md](PRIVACY.md) for the full posture.
 
 ## License
 
